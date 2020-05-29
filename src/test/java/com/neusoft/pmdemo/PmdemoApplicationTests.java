@@ -1,0 +1,13 @@
+package com.neusoft.pmdemo;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class PmdemoApplicationTests {
+
+    @Test
+    void contextLoads() {
+    }
+
+}
